@@ -1,0 +1,6 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/bin/Debug/OOExercicio01.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/bin/Debug/OOExercicio01.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/obj/x86/Debug/OOExercicio02.csprojResolveAssemblyReference.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/obj/x86/Debug/OOExercicio02.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/obj/x86/Debug/OOExercicio01.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/OOExercicio02/obj/x86/Debug/OOExercicio01.pdb
