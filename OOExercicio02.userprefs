@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{990CB3D8-67B6-449F-A194-4860B9B23CD8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cliente.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pedido.cs">
     <Files>
       <File FileName="Program.cs" Line="2" Column="1" />
-      <File FileName="Cliente.cs" Line="54" Column="4" />
-      <File FileName="Pedido.cs" Line="62" Column="4" />
+      <File FileName="Cliente.cs" Line="15" Column="48" />
+      <File FileName="Pedido.cs" Line="23" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
